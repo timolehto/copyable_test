@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      copyable|copyable:
+        generate_for:
+          - lib/src/model/item.dart
